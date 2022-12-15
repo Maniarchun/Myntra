@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="76.296554">
+    <testcase classname="Explore Myntra" name="Home Page" time="73.390789">
+        <system-out><![CDATA[Given user Launch The Application Url.......................................passed
+When user Select The Kid....................................................passed
+Then user Select The T-Shirt................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Explore Myntra" name="Kid T-Shirt Page" time="2.905765">
+        <system-out><![CDATA[When user Find Total Number Of Showing Result...............................passed
+And user Find The Minimum Price Product.....................................passed
+And user Find The Minimum Price Product Brand Name..........................passed
+Then user Find The Minimum Price Product Brand Subtitle.....................passed
+]]></system-out>
+    </testcase>
+</testsuite>
